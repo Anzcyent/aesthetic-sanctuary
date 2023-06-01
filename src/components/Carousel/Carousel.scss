@@ -1,0 +1,26 @@
+.carousel-section {
+    width: 100vw;
+    height: 100vh;
+
+    .slider {
+        height: 100%;
+        overflow: hidden;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 1000px) {
+    .carousel-section {
+        height: 50vh;
+
+        .slider {
+            z-index: 1;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel-section {
+        height: 25vh;
+    }
+}

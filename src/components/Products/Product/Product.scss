@@ -1,0 +1,21 @@
+.product {
+  width: 200px;
+  border: 1px solid #000;
+  cursor: pointer;
+
+  &:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+  }
+
+  .product-header {
+    img {
+      width: 100%;
+    }
+  }
+
+  .product-footer {
+    border-top: 1px solid #000;
+    padding: 10px;
+  }
+}

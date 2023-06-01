@@ -1,0 +1,110 @@
+{
+  "slideshow": [
+    {
+      "id": 1,
+      "title": "Renew Your Skin",
+      "description": "Experience our revitalizing skincare treatments that will leave your skin feeling refreshed and rejuvenated.",
+      "photo": "/assets/slide-photo-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Discover Inner Harmony",
+      "description": "Indulge in our holistic wellness services and find balance, harmony, and inner peace.",
+      "photo": "/assets/slide-photo-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Enhance Your Beauty",
+      "description": "Unlock your true beauty potential with our personalized beauty services and expert stylists.",
+      "photo": "/assets/slide-photo-3.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Skin Care",
+      "description": "Our professional estheticians provide a wide range of skin care treatments tailored to your specific needs. Experience rejuvenating facials, deep cleansing treatments, and effective solutions for common skin concerns.",
+      "photo": "/assets/skin-care.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Laser Epilation",
+      "description": "Say goodbye to unwanted hair with our advanced laser epilation services. Achieve long-lasting results with safe and efficient hair removal methods performed by our experienced technicians.",
+      "photo": "/assets/laser-epilation.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Diode Laser Epilation",
+      "description": "Experience the benefits of diode laser technology for hair removal. Our diode laser epilation treatments provide precise and effective results for various skin and hair types.",
+      "photo": "/assets/diode-laser-epilation.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Exilis Non-surgical Aesthetic",
+      "description": "Achieve a more youthful and toned appearance with our non-surgical Exilis aesthetic treatments. Target areas of concern such as face, neck, abdomen, and thighs to tighten and contour your body.",
+      "photo": "/assets/exilis-non-surgical-aesthetic.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Hydrafacial Skin Care",
+      "description": "Indulge in our Hydrafacial skin care treatments for instant hydration, exfoliation, and nourishment. This advanced facial treatment cleanses, extracts impurities, and rejuvenates your skin for a radiant glow.",
+      "photo": "/assets/hydrafacial-skin-care.jpg"
+    },
+    {
+      "id": 6,
+      "title": "BTL Exilis",
+      "description": "Experience the benefits of BTL Exilis, a non-invasive treatment that combines radiofrequency and ultrasound technologies for body shaping, cellulite reduction, and skin tightening.",
+      "photo": "/assets/btl-exilis.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Permanent Make-up",
+      "description": "Enhance your natural beauty with our permanent make-up services. Our skilled technicians offer eyebrow microblading, eyeliner, and lip coloration to achieve long-lasting and flawless results.",
+      "photo": "/assets/permanent-make-up.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cellulite Removal",
+      "description": "Get rid of stubborn cellulite and achieve smoother skin with our cellulite removal treatments. Our advanced techniques target cellulite deposits and improve skin texture for a more toned appearance.",
+      "photo": "/assets/cellulite-removal.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Hair Simulation",
+      "description": "Restore your hairline and create the appearance of fuller hair with our innovative hair simulation treatments. Our skilled technicians use specialized techniques to achieve natural-looking results.",
+      "photo": "/assets/hair-simulation.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Microbiome Energy Infusing Mist - 80 ml",
+      "photo": "/assets/microbiome-energy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Intensive Problem Control Toner 200 ml",
+      "photo": "/assets/intensive-problem.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pure C TX Serum 30 ml",
+      "photo": "/assets/pure-c-tx.jpg"
+    },
+    {
+      "id": 4,
+      "name": "RHM (Revitalizing Hydro Mist) 70 ml",
+      "photo": "/assets/rhm.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Genosys Blemish Balm Cushion",
+      "photo": "/assets/genosys.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Genosys MSC - Multi Sun",
+      "photo": "/assets/genosys-msc.jpg"
+    }
+  ]
+}
