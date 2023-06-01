@@ -26,6 +26,9 @@ const Footer = () => {
                 <a href="/">Home</a>
               </li>
               <li>
+                <a href="#services">Services</a>
+              </li>
+              <li>
                 <a href="#products">Products</a>
               </li>
             </ul>
@@ -36,7 +39,7 @@ const Footer = () => {
               <i className="fa-brands fa-whatsapp"></i> +90 546 717 74 21
             </span>
             <span>
-              <i class="fa-brands fa-instagram"></i> Anzcyent
+              <i class="fa-brands fa-instagram"></i> anzcyent
             </span>
           </div>
         </div>
