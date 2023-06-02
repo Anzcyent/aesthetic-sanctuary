@@ -5,7 +5,9 @@ import Rendezvous from "./Rendezvous/Rendezvous";
 const Footer = () => {
   return (
     <footer id="rendezvous">
-      <div className="footer-el"></div>
+      <div className="footer-el">
+        <div className="circle"></div>
+      </div>
       <div className="footer-el">
         <div className="container">
           <h4>Aesthetic Sanctuary</h4>
@@ -39,7 +41,7 @@ const Footer = () => {
               <i className="fa-brands fa-whatsapp"></i> +90 546 717 74 21
             </span>
             <span>
-              <i class="fa-brands fa-instagram"></i> anzcyent
+              <i className="fa-brands fa-instagram"></i> anzcyent
             </span>
           </div>
         </div>

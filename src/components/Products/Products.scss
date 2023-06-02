@@ -56,14 +56,39 @@
   }
 }
 
+@media (max-width: 320px) {
+  .products-section {
+    .circle {
+      left: -30% !important;
+      width: 200px;
+      height: 200px;
+    }
+    h2 {
+      &:before {
+        top: 20%;
+        left: 30%;
+      }
+    }
+  }
+}
+
 @media (max-width: 1200px) {
   .products-section {
     margin-top: 20px;
     font-size: 11px;
 
+    .circle {
+      left: -50%;
+    }
+
     h2 {
       font-size: 2rem;
       height: 10%;
+
+      &:before {
+        top: 25%;
+        left: 30%;
+      }
     }
 
     .products {

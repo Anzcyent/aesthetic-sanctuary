@@ -16,3 +16,18 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  .service {
+    width: 60%;
+    .service-header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+      img {
+        width: 50%;
+      }
+    }
+  }
+}

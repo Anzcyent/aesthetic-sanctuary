@@ -8,7 +8,7 @@ import Navbar from "../Navbar/Navbar";
 import { useMediaQuery } from "react-responsive";
 
 const Carousel = () => {
-  const isSmallScreen = useMediaQuery({ maxWidth: 768 });
+  const isSmallScreen = useMediaQuery({ maxWidth: 912 });
 
   const sliderSettings = {
     dots: false,

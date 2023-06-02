@@ -72,6 +72,13 @@
   }
 }
 
+@media (max-width: 375px) {
+  .rendezvous {
+    height: 50%;
+    top: 5%;
+  }
+}
+
 @media (max-width: 768px) {
   .rendezvous {
     .individual-info {

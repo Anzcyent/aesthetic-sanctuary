@@ -9,6 +9,17 @@ footer {
 
     &:nth-child(1) {
       background-color: #fff;
+      position: relative;
+
+      .circle {
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        background-color: #f1bdea70;
+        right: -10%;
+        top: -10%;
+      }
     }
 
     &:nth-child(2) {
@@ -66,6 +77,13 @@ footer {
 @media (max-width: 768px) {
   footer {
     .footer-el {
+      overflow: hidden;
+      &:nth-child(1) {
+        .circle {
+          left: 35%;
+          top: 15%;
+        }
+      }
       &:nth-child(2) {
         .container {
           font-size: 14px;

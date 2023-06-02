@@ -58,3 +58,19 @@
     }
   }
 }
+
+@media (min-width: 1280px) {
+  .navbar {
+    .container {
+      h1 {
+        width: 25%;
+        display: flex;
+        justify-content: center;
+      }
+
+      ul {
+        width: 75%;
+      }
+    }
+  }
+}

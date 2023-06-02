@@ -3,7 +3,7 @@ import { Carousel, Footer, Header, Products, ResponsiveNavbar, Services } from "
 import { useMediaQuery } from "react-responsive";
 
 const App = () => {
-  const isSmallScreen = useMediaQuery({ maxWidth: 768 });
+  const isSmallScreen = useMediaQuery({ maxWidth: 912 });
 
   return (
     <>
